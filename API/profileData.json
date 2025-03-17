@@ -1,0 +1,22 @@
+//Format Only
+{
+    "avatar": "https://example.com/avatar.jpg",
+    "name": "Saad Sayed",
+    "studentId": "21ECE1036",
+    "department": "B.Tech. Electronics & Comm.",
+    "semester": 7,
+    "cgpa": 8.25,
+    "academicYear": "2021 - 2025",
+    "dateOfBirth": "16th Jan 2002",
+    "gender": "Male",
+    "contactNumber": "1234567890",
+    "email": "abc123@gmail.com",
+    "address": "12, abc street, defgh, ijklm - 123456.",
+    "courseBadge": "B.Tech EC",
+    "courseDetails": "Electronics and Communications Engineering",
+    "projects": [],
+    "certifications": [],
+    "patents": [],
+    "extraCurricularActivities": []
+  }
+  
